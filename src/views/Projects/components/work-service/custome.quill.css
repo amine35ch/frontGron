@@ -1,0 +1,8 @@
+.ql-container.ql-snow {
+  @apply border-none !important;
+  @apply h-52 !important;
+}
+
+.ql-toolbar.ql-snow {
+  @apply border-none !important;
+}

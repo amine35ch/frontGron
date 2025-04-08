@@ -1,0 +1,70 @@
+{
+  "HT_total": "4017",
+  "TVA_total": "2678",
+  "TTC_total": "6695",
+  "plafond_prime": "7063.225",
+  "prime_bonification": "368.225",
+  "prime_renov": "6695",
+  "prime_renov_bonification": "7063.225",
+  "rac_mar": "2678",
+  "rac":"2000",
+  "installer":"2",
+"parents":[
+  {
+      "amount_HT": "6500",
+      "amount_TTC": 6857.5,
+      "amount_TVA": 64.5,
+      "d_work_id": 4,
+      "d_article_id": null,
+      "designation": "VMC double flux",
+      "price_unit_ht": 6500,
+      "qty": 2,
+      "unit": 2,
+      "tva": 2,
+      "d_sub_contractor_id": null,
+      "description": "",
+      "unit_price_HT": 854848,
+      "unit_price_TTC": 854848,
+      "type": 2,
+      "children":
+          [
+              {
+                  "amount_HT": "6500",
+                  "amount_TTC": 6857.5,
+                  "amount_TVA": 64.5,
+                  "d_work_id": 4,
+                  "d_article_id": 4,
+                  "designation": "PAC AIR / AIR AIRWELL ZDAE MULTISPLIT ZDAE-4080-09M25",
+                  "price_unit_ht": 6500,
+                  "qty": 2,
+                  "unit": 2,
+                  "tva": 2,
+                  "d_sub_contractor_id": null,
+                  "description": "",
+                  "unit_price_HT": 854848,
+                  "unit_price_TTC": 854848,
+                  "type": 0
+              }
+          ]
+  },
+    {
+      "amount_HT": "6500",
+      "amount_TTC": 6857.5,
+      "amount_TVA": 64.5,
+      "d_work_id":null,
+      "d_article_id": 219,
+      "parent_id": null,
+      "designation": "aziz test",
+      "price_unit_ht": 6500,
+      "qty": 2,
+      "unit": 2,
+      "tva": 2,
+      "d_sub_contractor_id": null,
+      "description": "",
+      "unit_price_HT": 854848,
+      "unit_price_TTC": 854848,
+      "type": 3
+  }
+]
+}
+
